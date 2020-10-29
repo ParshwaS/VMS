@@ -1,4 +1,4 @@
-# Visitor Managment System
+# Visitor Management System
 VMS helps in managing visitors visiting the institutions for various reasons. It allows visitors to check-in digitally to eliminate the tedious registeration and other paperwork. Additionally, it also keeps a track of every individual inside the campus and their timings. Institutions has guards who enter their detail in some notebooks to keep a log which are practically impossible to reconcile. It is really unpleasent and hectic for visitor to stand at the gate and give details about the visit. To ease the process of registeration, Entry-In, Entry-Out, time tracking and logging the history, this VMS can be of great use!! <br> <br>
 **Frameworks:** MEAN-Stack <br><br>
 **Feature:**<br/>
@@ -14,4 +14,3 @@ VMS helps in managing visitors visiting the institutions for various reasons. It
   >- Admin dashboard shows real time updates. If a guard lets someone in from any gate the numbers here changes same goes with registration. Afterwards we can even monitor each visits. It shows all the data of visits which are currently active or are completed in past. As the time increases of the visit, it will have change in color and this will alert the guards(to check up if any suspicious activity is conducted or not). In the same-way we can see master data of visitors and guards. Only the Admin panel has the ability to deregister them or register new guards.<br/>
 
 **Hope you like it!! Thank You :)**
-  
