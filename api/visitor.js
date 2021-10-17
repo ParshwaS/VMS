@@ -8,7 +8,7 @@ const QRCode = require('qrcode')
 var chat_config = require('./chat_config.json')
 
 module.exports = function (app, io) {
-
+	//getting list of visitors
 	app.get('/api/visitors/list', (req, res) => {
 		var decoded = jwt.verify(req.headers['authorization'], config.secret);
 		if(decoded.role=='Admin'){
